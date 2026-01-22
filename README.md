@@ -1,7 +1,7 @@
 # Hello World 👋🌎
 I'm Darren, a Math and Computer Science student at Carnegie Mellon University with a passion for building scalable applications and exploring machine learning technologies.
 
-You can find me coding, building cool stuff, eating lots of good food, and exploring new things. But check out my projects! 😄
+You can find me coding, building cool stuff, eating lots of good food, and exploring new things. Check out my projects! 😄
 
 <!--
 **DaruneChen/DaruneChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
